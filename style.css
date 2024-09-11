@@ -1,0 +1,14 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.continer{
+    height: 60vh;
+    width: 20vw;
+    background-color: blue;
+     position: absolute;
+    top: 30%;
+    left: 50%;
+    
+}
